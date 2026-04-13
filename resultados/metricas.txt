@@ -1,0 +1,9 @@
+=== MODELO: Tiempo de Viaje ===
+R2:   0.9271
+MAE:  2.4648 min
+RMSE: 3.2089 min
+
+=== MODELO: Ocupacion ===
+R2:   0.8182
+MAE:  0.0561
+RMSE: 0.0691
